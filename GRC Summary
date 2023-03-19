@@ -1,0 +1,35 @@
+During our GRC (Governance, Risk, Compliance) content for class we had to consider security and business objectives. 
+For example we were given a business plan example and we created pros and cons towards the business example.
+
+EX:) The director of engineering suggested giving all developers access to all data.
+
+Pros: Makes development easier and increases the speed of finding data
+
+Cons: Allows developers to access any user data, including sensitive files/info that has nothing to do with their regular work day.
+Also if there is a break in one of the developers user accounts then the malicious threat now has all the data needed to gain persistence and escalation.
+
+We also made security recommendations.
+
+EX:) The director of security suggested implementing a private corporate VPN.
+
+Answer:) 
+ With the VPN added to the corporate network would prevent unwanted visitors from entering the corporate network and keep the companies data confidential. 
+This would change the company's onboarding process and would have to re-train employees. 
+The initial onboarding and training will require work upfront, but the security benefits will save the company due time. 
+The organization should go forth with this security recommendation.
+
+During this cohort we also learned about the security culture framework. 
+Involved in the security culture framework we were given another scenario sent by “email” stating that the organization is having a problem with unknown 
+visitors tailgating into the building behind employees who scanned their Badge at the door and allowed the unknown visitors entry.
+ 
+  We then stated the security risks being “this behavior is insecure due to non-employees gaining access into the building without proper identification”.  
+We then created a method to keep track of how many people encourage tailgating  by having the organization assign a security team to audit surveillance feeds to 
+determine the percentage of employees partaking in tailgating.
+  After we decided on the method we created a goal being 0% of employees partaking and/or encouraging tailgating into the organization. 
+We created 3 potential high level solutions including a 1 pro and 1 con.
+
+1.Develop and instruct training-  The pro is that the training might have an effect on the security and the con takes a long time to develop and instruct.
+2.Hire guards 24/7- The pro is this provides an instant and direct solution and the con is that this raises cost for the company and doesn't teach 
+the employees to not partake in tailgating.
+3.Require keycards for access- This is the most secure option, because the building will only grant access to the keycard holders, the con is that 
+it takes a lot of work to implement the keycards. 
